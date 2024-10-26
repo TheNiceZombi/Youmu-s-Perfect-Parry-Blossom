@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Unity Projects School/Game Jam 1024/Game/Youmu-s-Perfect-Parry-Blossom/Content/Dialogue/BP_ItemPickup.uasset",
+				"E:/Unity Projects School/Game Jam 1024/Game/Youmu-s-Perfect-Parry-Blossom/Content/Scripts/Characters/Youmu/BP_Player.uasset",
+				"E:/Unity Projects School/Game Jam 1024/Game/Youmu-s-Perfect-Parry-Blossom/Content/Dialogue/BP_TestConvo.uasset",
+				"E:/Unity Projects School/Game Jam 1024/Game/Youmu-s-Perfect-Parry-Blossom/Content/Dialogue/BP_DialogueBoxes.uasset",
+				"E:/Unity Projects School/Game Jam 1024/Game/Youmu-s-Perfect-Parry-Blossom/Content/__ExternalActors__/Levels/Lvl_TestingGrounds/9/CJ/UX82UU13K2Q8XSYEQJA7PM.uasset",
+				"E:/Unity Projects School/Game Jam 1024/Game/Youmu-s-Perfect-Parry-Blossom/Content/Scripts/Input/IMC_TopDown.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset",
 				"C:/Users/filip/OneDrive/Dokument/Unreal Projects/MyProject2/Youmu-s-Perfect-Parry-Blossom/Content/Scripts/Characters/Projectiles/BP_ProjectileParent.uasset",
 				"C:/Users/filip/OneDrive/Dokument/Unreal Projects/MyProject2/Youmu-s-Perfect-Parry-Blossom/Content/Scripts/Characters/Youmu/BP_Player.uasset",

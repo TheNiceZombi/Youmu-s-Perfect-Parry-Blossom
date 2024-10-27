@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\filip\\OneDrive\\Dokument\\Unreal Projects\\MyProject2\\Youmu-s-Perfect-Parry-Blossom\\Intermediate\\Source\\MyProject2.Build.cs",
+		"C:\\Users\\filip\\OneDrive\\Dokument\\Unreal Projects\\MyProject2\\Youmu-s-Perfect-Parry-Blossom\\Intermediate\\Source\\MyProject2.Target.cs",
+		"C:\\Users\\filip\\OneDrive\\Dokument\\Unreal Projects\\MyProject2\\Youmu-s-Perfect-Parry-Blossom\\Intermediate\\Source\\MyProject2Client.Target.cs",
+		"C:\\Users\\filip\\OneDrive\\Dokument\\Unreal Projects\\MyProject2\\Youmu-s-Perfect-Parry-Blossom\\Intermediate\\Source\\MyProject2Editor.Target.cs",
+		"C:\\Users\\filip\\OneDrive\\Dokument\\Unreal Projects\\MyProject2\\Youmu-s-Perfect-Parry-Blossom\\Intermediate\\Source\\MyProject2Server.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
